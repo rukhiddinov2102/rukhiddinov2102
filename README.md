@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" height="150px"/></a>
+<a href="#"><img width="70%" height="auto" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" height="100px"/></a>
 
-<h1 align="center">Hi <img src="https://cdn141.picsart.com/323312979029211.png?type=webp&to=min&r=640" width="40px">, I'm Umid Rukhiddinov
+<h1 align="center">Hi <img src="https://cdn141.picsart.com/323312979029211.png?type=webp&to=min&r=640" width="35px">, I'm Umid Rukhiddinov
 </h1>
 <h3 align="center">I'm a Flutter Developer.</h3>
 
