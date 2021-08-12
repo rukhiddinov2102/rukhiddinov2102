@@ -1,4 +1,4 @@
-<a href="#"><img width="70%" height="auto" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" height="100px"/></a>
+<a href="#"><img  width="60%" height="auto" src="https://camo.githubusercontent.com/f80ac42b2a871935d15b003d80c177a89467faa70720a014fee50a7803b9072c/68747470733a2f2f7777772e6d61726b6368656e2e746563682f7374617469632f747970696e672d36366566643038373662353235323064306137316561616564663737323235632e676966" align="center" height="100px"/></a>
 
 <h1 align="center">Hi <img src="https://cdn141.picsart.com/323312979029211.png?type=webp&to=min&r=640" width="35px">, I'm Umid Rukhiddinov
 </h1>
