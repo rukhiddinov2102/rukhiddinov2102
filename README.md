@@ -22,7 +22,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width="100" height="30"/> </a> 
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width="100" height="40" margin="0,0,10"/> </a> 
     <a href="https://dart.dev/" target="_blank"> <img src="https://download.logo.wine/logo/Dart_(programming_language)/Dart_(programming_language)-Logo.wine.png" width="100" height="60"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
